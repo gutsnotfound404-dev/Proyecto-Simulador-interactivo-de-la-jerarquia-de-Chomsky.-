@@ -145,4 +145,4 @@ La explicación de la implementación (arquitectura, algoritmos, definiciones fo
 ## 7. Autor
 
 Proyecto académico — Autómatas, Gramáticas y Lenguajes.
-*(Agregue aquí su nombre, programa y universidad.)*
+*(Juan Esteban Cuchibague, Ingenieria de sistemas, Politecnico Grancolombiano.)*
