@@ -1,0 +1,2 @@
+# Este proyecto no requiere librerias externas: solo Python 3.8+ con Tkinter (incluido en la libreria estandar).
+# En Linux (Debian/Ubuntu) instale Tkinter con: sudo apt install python3-tk
